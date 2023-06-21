@@ -1,3 +1,12 @@
+ body{
+    background-image: url(../img/fondo\ mat.png);
+    background-image: 
+    linear-gradient(
+      rgba(181, 248, 203, 0.5),
+      rgba(171, 247, 218, 0.5)
+    ),
+    url(../img/fondo\ mat.png);
+ }
  .imagen-regla{
     transform: rotate(135deg);
  }
@@ -36,11 +45,9 @@
     margin-top: -80;
  }
  header{
-    background-color: rgb(152, 245, 152);
     padding: 10px;
  }
  button{
-    
     padding: 0%;
  }
  .respuesta-input{
